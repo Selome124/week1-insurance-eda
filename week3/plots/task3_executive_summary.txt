@@ -1,0 +1,27 @@
+EXECUTIVE SUMMARY: RISK SEGMENTATION ANALYSIS
+==================================================
+
+Analysis Date: 2025-12-10 22:29
+Dataset: 1,338 policies
+Overall Claim Frequency: 14.05%
+
+KEY FINDINGS:
+------------------------------
+1. REJECT H0 for zip code risk differences (p = 0.0004). Implement granular geographic pricing: Adjust premiums by up to 16% based on zip code risk profiles.
+2. Smokers are 3.0x more likely to file claims (29.9% vs 10.0%). Implement substantial premium surcharge for smokers.
+3. Conduct A/B testing before implementing any premium adjustments.
+4. Review risk models quarterly with updated claim data.
+5. Consider multi-factor segmentation combining geography, demographics, and lifestyle factors.
+
+RECOMMENDED SEGMENTATION STRATEGY:
+-----------------------------------
+1. Geographic Segmentation: Implement zip-code based pricing
+2. Demographic Segmentation: Consider age and gender factors
+3. Lifestyle Segmentation: Apply smoker premium adjustments
+4. Continuous Monitoring: Review quarterly with new data
+
+BUSINESS IMPACT:
+--------------------
+* Total Premium Revenue: $17,755,824.99
+* Total Claims Cost: $188,000.00
+* Net Profit Margin: 98.9%

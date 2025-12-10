@@ -1,0 +1,4 @@
+test,stat,p_value,decision
+province_frequency_chi2,0.0,1.0,FAIL_TO_REJECT
+province_severity_kruskal,,,insufficient_data
+sex_freq_ztest,,,FAIL_TO_REJECT

@@ -1,0 +1,8 @@
+analysis,test,statistic,p_value,decision,claim_rate_A,claim_rate_B,mean_margin_A,mean_margin_B,margin_difference,claim_rate_female,claim_rate_male,claim_rate_smoker,claim_rate_nonsmoker
+province_frequency,chi-square,5.7653704894961155,0.12360049029522409,FAIL_TO_REJECT,,,,,,,,,
+zipcode_frequency,z-test,3.5258120881508592,0.00042218641377611554,REJECT,0.23622047244094488,0.07377049180327869,,,,,,,
+zipcode_margin,t-test,1.3591390355079953,0.17534222389497864,FAIL_TO_REJECT,,,15759.464022755903,13297.781891557379,2461.682131198524,,,,
+gender_frequency,z-test,-0.6319686449012234,0.5274073661273493,FAIL_TO_REJECT,,,,,,0.13444108761329304,0.14644970414201183,,
+smoker_frequency,z-test,8.480216668311238,0.0,REJECT,,,,,,,,0.29927007299270075,0.09962406015037593
+age_group_frequency,chi-square,0.2016606169285844,0.9040864356856017,FAIL_TO_REJECT,,,,,,,,,
+bmi_frequency,chi-square,2.6300480880955757,0.4522460639302305,FAIL_TO_REJECT,,,,,,,,,

@@ -1,0 +1,7 @@
+test,stat,p_value,decision,interpretation
+province_frequency_chi2,5.7653704894961155,0.12360049029522409,FAIL_TO_REJECT,No significant difference (p=0.1236)
+province_severity_kruskal,,,insufficient_data,insufficient_data
+sex_freq_ztest,-0.6319686449012234,0.5274073661273493,FAIL_TO_REJECT,No significant difference (p=0.5274)
+age_group_freq_chi2,0.2016606169285844,0.9040864356856017,FAIL_TO_REJECT,No significant difference (p=0.9041)
+smoker_freq_ztest,8.480216668311238,0.0,REJECT,Statistically significant difference (p=0.0000)
+bmi_category_freq_chi2,2.6300480880955757,0.4522460639302305,FAIL_TO_REJECT,No significant difference (p=0.4522)
